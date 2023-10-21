@@ -159,7 +159,8 @@ int main(int argc, char **argv)
 }
 ```
 ## Output
-![image](1.png)
+![1](https://github.com/Janani-2003/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94288340/4d83cc6d-7b7c-415c-86b0-3e3c37492d17)
+
 
 ## Result
 Thus the difference between the execution configurations of PCA-GPU-based vector summation had been explored successfully.
